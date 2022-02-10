@@ -49,10 +49,13 @@ Live Share Extension Pack
 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 [Opening up your projects brings a new level of transparency to your organization. Not only is the code visible but also the process and decision-making behind it. Well-documented conversations help developers on distributed teams get up to speed and start building.](https://resources.github.com/whitepapers/introduction-to-innersource/)  
 
-Setup some git aliases. Run this in your shell:
+## Setup some git aliases. Run this in your shell:
 ```bash
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.st status
 ```
+
+## Make your shell as cool as mine...
+[octocat-cow](https://github.com/robandpdx/octocat-cow)
