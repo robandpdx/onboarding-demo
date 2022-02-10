@@ -6,7 +6,7 @@
 [oh-my-zsh](https://ohmyz.sh/)  
 [Homebrew](https://brew.sh/)  
 ```brew install vim git```  
-[Sublime Text](https://www.sublimetext.com/). 
+[Sublime Text](https://www.sublimetext.com/)  
 [pyenv](https://github.com/pyenv/pyenv) - install 3.9.9  
 [Powerline fonts](https://github.com/powerline/fonts) - use ‘Roboto Mono for Powerline’ in hyper.js config  
 [Powerline shell](https://github.com/b-ryan/powerline-shell)  
