@@ -19,6 +19,7 @@
 [Postman](https://www.postman.com/)  
 [Synergy](https://symless.com/synergy)  
 [GitHub CLI](https://github.com/cli/cli#installation)  
+[PR Extension for GH cli](https://github.com/dlvhdr/gh-prs)  
 [GitHub Desktop](https://desktop.github.com/)  
 [Rectangle](https://rectangleapp.com/)  
 [rbenv](https://github.com/rbenv/rbenv)  
